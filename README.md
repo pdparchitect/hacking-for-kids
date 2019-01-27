@@ -16,6 +16,15 @@ This guide is meant to provide a roadmap for teaching kids getting first hands i
   - Making mistakes - what vuns are and why they exist
   - Exploits - what are exploits
 
+## Exercises
+
+* Basic infra to show how to crack a password
+* Simple binary reversing challange - change hex codes to bypass or display some funny message
+
+## Notes / Ideas
+
+* Setup a github project - might be too early
+
 ## Elsewhere
 
 ### Twitter
