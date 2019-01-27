@@ -23,17 +23,22 @@ This guide is meant to provide a roadmap for teaching kids getting first hands i
 * Hardware
   - Build simple evil USB
 
-## Exercises
+## Challenges
 
-* Basic infra to show how to crack a password
-* Simple binary reversing challange - change hex codes to bypass or display some funny message
+* [Mario Says](challenges/mario-says/README.md)
 
 ## Notes / Ideas
 
+### Notes
 * Setup a github project - might be too early
 * How do you get a 3 year old started in security - good question
 * Document everything in twitte account - this will be fun
 * Record youtube videos
+
+### Exercises
+
+* Basic infra to show how to crack a password
+* Simple binary reversing challange - change hex codes to bypass or display some funny message
 
 ## Elsewhere
 
