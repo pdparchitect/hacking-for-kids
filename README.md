@@ -28,6 +28,8 @@ This guide is meant to provide a roadmap for teaching kids getting first hands i
 ## Notes / Ideas
 
 * Setup a github project - might be too early
+* How do you get a 3 year old started in security - good question
+* Document everything in twitte account - this will be fun
 
 ## Elsewhere
 
