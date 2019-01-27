@@ -27,7 +27,7 @@ This guide is meant to provide a roadmap for teaching kids getting first hands i
 
 ## Challenges
 
-* [Mario Says](challenges/mario-says/README.md)
+* [Mario Says](challenges/mario-says/README.md) - basic challange to teach about machine code and how to edit binary files
 
 ## Notes / Ideas
 
