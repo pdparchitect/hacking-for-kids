@@ -2,7 +2,10 @@ mario: main.c
 	gcc main.c
 
 image: Dockerfile main.c
-	docker build -t mario-says .
+	docker build -t pdparchitect/mario-says .
 
 run:
-	docker run -it mario-says
+	docker run -it pdparchitect/mario-says
+
+publish:
+	docker push pdparchitect/mario-says:latest
