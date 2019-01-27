@@ -2,6 +2,8 @@
 
 > **NOTE**: work in progress
 
+This guide is meant to provide a roadmap for teaching kids getting first hands in cybersecurity. It is meant to show security from the perspective of the attacker and illustrate the various defense mechanisms.
+
 ## Topics
 
 > **NOTE**: in no particular order
