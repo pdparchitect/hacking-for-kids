@@ -6,7 +6,9 @@ This guide is meant to provide a roadmap for teaching kids getting first hands i
 
 ## Topics
 
-> **NOTE**: in no particular order
+> **NOTE**: Some of these topcs require prerior knowledge to be successful at them. However, I don't believe it is a good approach to lecture kids on complex subject before they even get their hands on the stuff. The best way to learn is by practice so expect more hands-on exercises.
+
+> **NOTE**: In no particular order here they are.
 
 * Information Gathering
 * Basic Security Mechanisms
@@ -15,6 +17,8 @@ This guide is meant to provide a roadmap for teaching kids getting first hands i
 * Vulnerabilities
   - Making mistakes - what vuns are and why they exist
   - Exploits - what are exploits
+* Hardware
+  - Build simple evil USB
 
 ## Exercises
 
