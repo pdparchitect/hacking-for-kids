@@ -19,6 +19,6 @@ Normally kids will not be able to solve the challenge by themeselves. You need t
 * Tell them what programs are. You can say something along the lines of a sequence of numbers or a sequence of bits. Every number means something to the computer. The computer reads the number and knows what to do with it. Don't make it too complex.
 * Tell them that programs are written in human-readable languages because it is very difficult for us to understand what each number is. So another program reads the program source and converts it to numbers. Again, keep it simple.
 * You can say that sometimes you can change the numbers directly. Now we are getting into the interesting stuff.
-* Pipe the program to xxd like this `cat /bin/mario-says | xxd` and say that we can read now all the numbers of the program. Explain what these numbers are and point out the location of the text that we want to change.
+* Pipe the program to xxd like this `xxd /home/mario/mario-says` and say that we can read now all the numbers of the program. Explain what these numbers are and point out the location of the text that we want to change.
 * Open the program in tweak, which is provided in the docker image. Scroll to the relevant location and show them how to change the text so that the program can say something else.
 * Save the program and execute again. If successful you will see a different message.
