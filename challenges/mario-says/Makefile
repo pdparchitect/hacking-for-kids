@@ -1,2 +1,2 @@
 mario: mario.c
-	gcc mario.c -o mario
+	gcc mario.c -o mario.out
