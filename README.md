@@ -1,3 +1,5 @@
+[![Follow on Twitter](https://img.shields.io/twitter/follow/pdp.svg?logo=twitter)](https://twitter.com/pdp)
+
 # Cybersecurity For Kids
 
 > **NOTE**: work in progress
