@@ -1,2 +1,8 @@
-mario: mario.c
-	gcc mario.c -o mario.out
+mario: main.c
+	gcc main.c
+
+image: Dockerfile main.c
+	docker build -t mario-says .
+
+run:
+	docker run -it mario-says
