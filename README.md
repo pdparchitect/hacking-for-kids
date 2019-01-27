@@ -14,6 +14,9 @@ This guide is meant to provide a roadmap for teaching kids getting first hands i
 * Basic Security Mechanisms
   - Authentication - passwords
   - Authorization - who can do what and where
+* Scripting
+  - How to run commands
+  - Basic scripting - pipes, etc
 * Vulnerabilities
   - Making mistakes - what vuns are and why they exist
   - Exploits - what are exploits
