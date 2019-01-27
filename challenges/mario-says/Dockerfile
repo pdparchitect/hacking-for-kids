@@ -32,10 +32,10 @@ USER mario
 
 WORKDIR /home/mario
 
-COPY --from=build /build/a.out /home/mario/mario-says
+COPY --chown=mario --from=build /build/a.out /home/mario/mario-says
 
 RUN true \
 	&& echo '/home/mario/mario-says' >> .bashrc \
-	&& echo 'echo "Use strings, xxd and tweak to change what /home/mario/mario-says"' >> .bashrc
+	&& echo 'echo "Use strings, xxd and tweak to change what mario-says"' >> .bashrc
 
 ENTRYPOINT ["/bin/bash"]
