@@ -33,6 +33,10 @@ This guide is meant to provide a roadmap for teaching kids getting first hands i
 
 ## Elsewhere
 
+### Tools
+
+* [ANSI Art & Tools](https://github.com/gauravchl/ansi-art)
+
 ### Twitter
 
 * [@Hak4Kidz](https://twitter.com/Hak4Kidz)
