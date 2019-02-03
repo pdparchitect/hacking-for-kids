@@ -1,15 +1,15 @@
 section .data
-	prompt:      db 'password: '
-	prompt_len:  equ $-prompt
+	prompt:       db 'password: '
+	prompt_len:   equ $-prompt
 
-	secret:      db 'secret',
-	secret_len:  equ $-secret
+	secret:       db 'secret',
+	secret_len:   equ $-secret
 
-	success:     db 'You did it',0xa
-	success_len: equ $-success
+	success:      db 'You did it',0xa
+	success_len:  equ $-success
 
-	failure:     db 'Access denied',0xa
-	failure_len: equ $-failure
+	failure:      db 'Access denied',0xa
+	failure_len:  equ $-failure
 
 section .bss
 	password:     resb 256
