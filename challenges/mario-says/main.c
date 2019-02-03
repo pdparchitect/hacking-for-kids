@@ -412,7 +412,7 @@ int main(int argc, char** argv) {
 		"\x34\x38\x3b\x35\x3b\x30\x30\x6d\x20\x20\x1b\x5b\x30\x6d\x0a\x0a\x20"
 		"\x20\x20\x20\x20\x20\x20\x20\x20Hola! Soy super mario!\n\n";
 
-	printf("%s", mario);
+	puts((const char *)mario);
 
 	return 0;
 }
