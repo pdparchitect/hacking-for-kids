@@ -30,6 +30,7 @@ This guide is meant to provide a roadmap for teaching kids getting first hands i
 > **NOTE**: All of these challenges require some form of guidence.
 
 * [Mario Says](challenges/mario-says/README.md) - basic challenge to teach about machine code and how to edit binary files
+* [The Cave](challenges/the-cave/README.md) - disassembly challange to teach about machine code and how to bypass jumps
 
 ## Notes / Ideas
 
