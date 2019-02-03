@@ -1,4 +1,4 @@
-mario: main.c
+build: main.c
 	gcc main.c
 
 image: Dockerfile main.c
