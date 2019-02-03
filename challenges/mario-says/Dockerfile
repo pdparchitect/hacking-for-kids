@@ -25,17 +25,17 @@ RUN true \
 		binutils
 
 RUN true \
-	&& groupadd mario \
-	&& useradd -m -g mario mario
+	&& groupadd kid \
+	&& useradd -m -g kid kid
 
-USER mario
+USER kid
 
-WORKDIR /home/mario
+WORKDIR /home/kid
 
-COPY --chown=mario --from=build /build/a.out /home/mario/mario-says
+COPY --chown=kid --from=build /build/a.out /home/kid/mario-says
 
 RUN true \
-	&& echo '/home/mario/mario-says' >> .bashrc \
+	&& echo '/home/kid/mario-says' >> .bashrc \
 	&& echo 'echo "Use strings, xxd and tweak to change what mario-says"' >> .bashrc
 
 ENTRYPOINT ["/bin/bash"]
